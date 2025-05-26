@@ -1,23 +1,23 @@
-### Kripto Uygulaması
+### Crypto Prediction Application
 
-Basit bir Vue 3 bileşeni ile günlük kapanış verilerine dayalı olarak 5 günlük kripto tahmini ve analiz sunar.
+A simple Vue 3 component that provides a 5-day crypto forecast and analysis based on daily closing data.
 
-### Özellikler
+### Features
 
-- **Günlük Volatilite** hesaplama
-- **EMA, RSI, MACD Histogram** göstergeleri
-- 5 günlük **AL / ÖNERİLMEZ / BEKLE** strateji önerisi
-- **Toplam Öngörülen %** ve **Toplam Kar/Zarar** hesaplama
-- Tarihler **gg/aa/yyyy** formatında gösterim
+- **Daily Volatility** calculation
+- **EMA, RSI, MACD Histogram** indicators
+- 5-day **BUY / AVOID / HOLD** strategy recommendation
+- **Total Predicted %** and **Total P&L** calculation
+- Dates displayed in **dd/mm/yyyy** format
 
-### Gereksinimler
+### Requirements
 
 - Node.js ≥ 14
-- npm veya yarn
-- Vue 3 projesi (Vite veya Vue CLI)
+- npm or yarn
+- Vue 3 project (Vite or Vue CLI)
 
-### Gereksinimler
+### ToDo
 
-- Logo Ve Loading Icon
-- Coin Arama
-- Grafik
+- Logo and Loading Icon
+- Coin Search
+- Chart
