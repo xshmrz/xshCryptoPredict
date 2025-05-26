@@ -15,3 +15,9 @@ Basit bir Vue 3 bileşeni ile günlük kapanış verilerine dayalı olarak 5 gü
 - Node.js ≥ 14
 - npm veya yarn
 - Vue 3 projesi (Vite veya Vue CLI)
+
+### Gereksinimler
+
+- Logo Ve Loading Icon
+- Coin Arama
+- Grafik
